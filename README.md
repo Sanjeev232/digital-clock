@@ -1,4 +1,4 @@
-# digital-clock
+# Digital Clock
 
 This repo is created to check DOM update method for Vanila Js and React js in real time.
 
