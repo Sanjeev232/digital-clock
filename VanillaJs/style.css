@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10rem;
+    background-color: #112240;
+}
+
+.p-tag {
+    color: #8892b0;
+}
+
+.time-container {
+    text-align: center;
+    color: #ccd6f6;
+}
+
+.jsClock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
