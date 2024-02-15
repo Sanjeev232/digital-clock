@@ -11,4 +11,4 @@ As seen clearly in this screen recording, modern browsers are capable of efficie
 
 # Final verdict
 
-Verdica yet to add as soon as i found a solid reason for it i will add here
+Verdica yet to add as soon as i found a solid reason for react updation (Virtual DOM) is better than directly updating the DOM i will add here.
