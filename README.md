@@ -6,6 +6,9 @@ This repo is created to check DOM update method for Vanila Js and React js in re
 
 https://github.com/Sanjeev232/digital-clock/assets/54616074/8f6bc73b-1a46-406c-804b-9228250026e4
 
+As seen clearly in this screen recording, modern browsers are capable of efficiently making changes only to updated elements using Vanilla JS.
+
+
 # Final verdict
 
 Verdica yet to add as soon as i found a solid reason for it i will add here
